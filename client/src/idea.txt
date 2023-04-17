@@ -1,0 +1,12 @@
+single page
+--start button for transaction
+--log file section
+--two buttons to respond with ready or not ready
+--any incoming request section
+--outgoing response section
+
+request               response
+            start
+    ready           not ready
+
+            log file
